@@ -437,7 +437,5 @@ MIT License — free to use, modify, and distribute.
 ---
 
 <div align="center">
-  <strong>GeoSentrix Technologies Pvt. Ltd.</strong><br/>
-  Built with ❤️ for Indian Infrastructure Safety<br/>
-  NHIDCL · MoRT&H · IS:14268 · IRC:SP:91
+ 
 </div>
